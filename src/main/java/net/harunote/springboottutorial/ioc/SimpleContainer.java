@@ -14,6 +14,7 @@ public class SimpleContainer {
         greetingService = new GreetingService(messageProvider);
     }
 
+
     // 외부에서 GreetingService 객체를 사용할 수 있도록 제공
     public GreetingService getGreetingService() {
         return greetingService;
