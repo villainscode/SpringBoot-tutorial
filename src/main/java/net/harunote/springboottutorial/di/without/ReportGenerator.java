@@ -5,7 +5,7 @@ import net.harunote.springboottutorial.di.DataReport;
 // ReportGenerator: 리포트를 생성하는 클래스
 public class ReportGenerator {
     // 내부에서 DataReport 객체를 직접 생성함 → 강한 결합
-    private net.harunote.springboottutorial.di.DataReport dataReport = new DataReport();
+    private DataReport dataReport = new DataReport();
     //private TestDataReport dataReport = new TestDataReport();
 
     public void generateReport() {
