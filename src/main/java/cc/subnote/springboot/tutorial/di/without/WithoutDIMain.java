@@ -1,4 +1,4 @@
-package net.harunote.springboottutorial.di.without;
+package cc.subnote.springboot.tutorial.di.without;
 
 // 실행 클래스
 public class WithoutDIMain {

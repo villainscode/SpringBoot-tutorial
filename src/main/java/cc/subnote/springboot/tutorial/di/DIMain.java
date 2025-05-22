@@ -1,6 +1,4 @@
-package net.harunote.springboottutorial.di;
-
-import net.harunote.springboottutorial.di.without.ReportGenerator;
+package cc.subnote.springboot.tutorial.di;
 
 // 실행 클래스
 public class DIMain {

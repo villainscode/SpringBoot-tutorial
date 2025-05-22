@@ -1,6 +1,6 @@
-package net.harunote.springboottutorial.di.without;
+package cc.subnote.springboot.tutorial.di.without;
 
-import net.harunote.springboottutorial.di.DataReport;
+import cc.subnote.springboot.tutorial.di.DataReport;
 
 // ReportGenerator: 리포트를 생성하는 클래스
 public class ReportGenerator {

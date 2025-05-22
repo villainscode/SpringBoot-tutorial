@@ -1,4 +1,4 @@
-package net.harunote.springboottutorial.di;
+package cc.subnote.springboot.tutorial.di;
 
 // TestDataReport: 테스트용으로 간단한 데이터를 반환하도록 구현
 public class TestDataReport {
