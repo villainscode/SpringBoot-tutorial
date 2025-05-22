@@ -1,5 +1,5 @@
 package cc.subnote.springboot.tutorial.di.user;
 
-interface UserRepository {
+interface DIUserRepository {
     String findById(Long userId);
 }

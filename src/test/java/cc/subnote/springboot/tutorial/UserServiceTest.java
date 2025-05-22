@@ -1,4 +1,4 @@
-package cc.subnote.springboot.tutorial.user;
+package cc.subnote.springboot.tutorial;
 
 import cc.subnote.springboot.tutorial.user.UserService;
 import org.junit.jupiter.api.Test;
