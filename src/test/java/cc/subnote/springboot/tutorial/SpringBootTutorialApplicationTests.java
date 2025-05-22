@@ -1,4 +1,4 @@
-package net.harunote.springboottutorial;
+package cc.subnote.springboot.tutorial;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
