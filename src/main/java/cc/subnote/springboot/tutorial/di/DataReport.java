@@ -1,4 +1,4 @@
-package net.harunote.springboottutorial.di.without;
+package cc.subnote.springboot.tutorial.di;
 
 // DataFetcher: 데이터를 가져오는 역할을 수행하는 구체 클래스
 public class DataReport {

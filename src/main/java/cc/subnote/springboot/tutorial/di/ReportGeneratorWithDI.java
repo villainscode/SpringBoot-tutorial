@@ -1,4 +1,4 @@
-package net.harunote.springboottutorial.di;
+package cc.subnote.springboot.tutorial.di;
 
 /**
  * Please explain the class!!
