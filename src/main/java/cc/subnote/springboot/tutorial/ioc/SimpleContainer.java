@@ -1,4 +1,4 @@
-package net.harunote.springboottutorial.ioc;
+package cc.subnote.springboot.tutorial.ioc;
 
 // IoC 컨테이너 역할을 하는 아주 간단한 클래스
 public class SimpleContainer {

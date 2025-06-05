@@ -1,4 +1,4 @@
-package net.harunote.springboottutorial.ioc.without;
+package cc.subnote.springboot.tutorial.ioc.without;
 
 // 실행 예제
 public class TraditionalExample {

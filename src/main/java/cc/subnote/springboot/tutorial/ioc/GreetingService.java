@@ -1,4 +1,4 @@
-package net.harunote.springboottutorial.ioc;
+package cc.subnote.springboot.tutorial.ioc;
 
 // 생성자를 통해 외부에서 MessageProvider를 주입받음
 public class GreetingService {

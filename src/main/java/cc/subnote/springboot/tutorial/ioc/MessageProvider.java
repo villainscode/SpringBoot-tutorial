@@ -1,4 +1,4 @@
-package net.harunote.springboottutorial.ioc;
+package cc.subnote.springboot.tutorial.ioc;
 
 // 동일
 public class MessageProvider {

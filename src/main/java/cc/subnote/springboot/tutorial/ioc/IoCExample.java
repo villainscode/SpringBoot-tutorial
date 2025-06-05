@@ -1,4 +1,4 @@
-package net.harunote.springboottutorial.ioc;
+package cc.subnote.springboot.tutorial.ioc;
 
 // SimpleContainer를 통해 객체들이 자동으로 생성되고 연결됨
 public class IoCExample {
