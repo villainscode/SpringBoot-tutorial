@@ -1,4 +1,4 @@
-package cc.subnote.springboot.tutorial.jdbc;
+package cc.subnote.springboot.tutorial.jdbc.dto;
 
 public class User {
     private Long id;
