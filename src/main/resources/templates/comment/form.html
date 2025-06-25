@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head><title>댓글 수정</title></head>
+<body>
+
+<h1>댓글 수정</h1>
+<BR>
+<form th:action="@{'/comments/' + ${comment.id} + '/edit'}" method="post">
+    <textarea name="content" th:text="${comment.content}" required></textarea><br/>
+    <button type="submit">수정</button>
+</form>
+<a th:href="@{'/posts/' + ${comment.postId}}">뒤로</a>
+</body>
+</html>
